@@ -14,7 +14,7 @@
 I'm a full-stack developer who likes building things that solve real, slightly-boring-but-important problems — banking flows, stock data, regulatory tooling. Right now I'm deep in MERN-land while teaching myself ML/AI, because I'd rather learn by shipping than by watching tutorials.
 
 
-🔭 Currently building PrepForm (a MERN app) and RegMap-AI (an RBI compliance tool)
+🔭 Currently building PrepForm (a MERN app)
 🌱 Currently learning Machine Learning & AI
 💬 Ask me about full-stack architecture, fintech apps, or how RBI compliance logic translates into code
 📫 Reach me on WhatsApp — badge above
@@ -67,7 +67,7 @@ MongoDB Express React Node.js
 
 </td>
 <td width="50%" valign="top">
-🏛️ RegMap-AI (in progress)
+🏛️ RegMap-AI 
 
 An AI-assisted tool for navigating RBI (Reserve Bank of India) regulatory/compliance requirements — combining my fintech interest with my ML/AI learning track.
 

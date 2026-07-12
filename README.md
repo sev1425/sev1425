@@ -14,7 +14,7 @@
 ## 🧭 About Me
 Full-stack developer with a fintech obsession — I build tools around banking, compliance, and financial data because that's where the genuinely hard, genuinely useful problems live.
 Currently leveling up into **ML/AI**, not by grinding courses, but by shipping things. RegMap AI went from "I want to learn NLP" to a full 17-stage local AI pipeline that processes RBI circulars in under 4 seconds — offline, zero cloud calls.
-- 🔭 Currently building **PrepForge** — a MERN-stack DSA preparation tracker, actively shipping
+- 🔭 builded **PrepForge** — a MERN-stack DSA preparation tracker, 
 - 🌱 Currently learning **Machine Learning & AI** — spaCy, sentence-transformers, local LLMs
 - 💬 Ask me about full-stack architecture, fintech apps, or how RBI compliance logic translates into code
 - 📫 Reach me on WhatsApp — badge above

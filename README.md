@@ -1,3 +1,10 @@
+Here is your updated GitHub Profile README! 
+
+I changed the mentions of "PrepForm" to "**PrepForge**", added a proper description highlighting the glassmorphism UI and code editor features, and added the direct link to the repository (`https://github.com/sev1425/prepforge`).
+
+You can copy and paste this directly into your GitHub profile repository (`sev1425/sev1425`):
+
+```markdown
 <h1 align="center">Hey, I'm Sevanthi 👋</h1>
 <h3 align="center">Full-Stack Developer · Fintech Builder · ML/AI Learner</h3>
 
@@ -21,7 +28,7 @@ Full-stack developer with a fintech obsession — I build tools around banking, 
 
 Currently leveling up into **ML/AI**, not by grinding courses, but by shipping things. RegMap AI went from "I want to learn NLP" to a full 17-stage local AI pipeline that processes RBI circulars in under 4 seconds — offline, zero cloud calls.
 
-- 🔭 Currently building **PrepForm** — a MERN-stack app, actively shipping
+- 🔭 Currently building **PrepForge** — a MERN-stack DSA preparation tracker, actively shipping
 - 🌱 Currently learning **Machine Learning & AI** — spaCy, sentence-transformers, local LLMs
 - 💬 Ask me about full-stack architecture, fintech apps, or how RBI compliance logic translates into code
 - 📫 Reach me on WhatsApp — badge above
@@ -121,9 +128,9 @@ Stock tracking and financial data visualization. Built to get hands-on with real
 </td>
 <td width="50%" valign="top">
 
-### 📝 PrepForm *(in progress)*
+### 📝 PrepForge
 
-Full MERN-stack application — actively shipping. More details as it ships.
+A modern, full-stack Data Structures and Algorithms (DSA) preparation tracker. Features a premium glassmorphism UI, integrated Monaco code editor, client-side JavaScript evaluation, and detailed problem-solving statistics. 
 
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
@@ -132,7 +139,7 @@ Full MERN-stack application — actively shipping. More details as it ships.
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 </p>
 
-*Coming soon*
+[**View Project →**](https://github.com/sev1425/prepforge)
 
 </td>
 </tr>
@@ -165,3 +172,4 @@ Full MERN-stack application — actively shipping. More details as it ships.
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
+```
